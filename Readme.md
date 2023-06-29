@@ -1,9 +1,13 @@
 Thanks for downloading this template!
 
 Template Name: MyResume
+
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+
 Author: BootstrapMade.com
+
 License: https://bootstrapmade.com/license/
+
 Images: 
 Photo by <a href="https://unsplash.com/es/@thutra0803?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tra  Nguyen</a> on <a href="https://unsplash.com/s/photos/teacher?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by <a href="https://unsplash.com/@jeremythomasphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Thomas</a> on <a href="https://unsplash.com/images/nature/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
